@@ -1,10 +1,14 @@
+#body {
+    background-color: aquamarine
+}
 .container {
+    text-align: center;
     background-color: aqua;
-    height: 250px;
+    height: 125px;
     width: 80%;
 }
 
-.h2 {
+#h2 {
     background-color: aqua;
     height: 250px;
     width: 80%;
