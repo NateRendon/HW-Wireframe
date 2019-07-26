@@ -1,4 +1,10 @@
-.me {
+.container {
+    background-color: aqua;
+    height: 250px;
+    width: 80%;
+}
+
+.h2 {
     background-color: aqua;
     height: 250px;
     width: 80%;
