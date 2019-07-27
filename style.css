@@ -1,13 +1,14 @@
 h1 {
     text-align: center;
-    font-family: Helvetica;
+    font-family: 'Times New Roman', Times, serif;
 }
 h2 {
     text-align: center;
-    font-family: Helvetica;
+    font-family: 'Times New Roman', Times, serif;
 }
 #body {
-    font-family: Helvetica;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
      color: '#777';
      background: aquamarine;
      width: '960px';
@@ -24,14 +25,14 @@ h2 {
 #left {
     Background-color: blue; 
     height: 100%;
-    width: 10%;
+    width: 25%;
     float: left;
 }
 
 #right {
     background-color: blue;
     height: 100%;
-    width: 10%; 
+    width: 25%; 
     float: right;
 
 }
