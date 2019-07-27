@@ -1,15 +1,39 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+}
+h2 {
+    text-align: center;
+    font-family: Helvetica;
+}
 #body {
-    background-color: aquamarine
+    font-family: Helvetica;
+     color: '#777';
+     background: aquamarine;
+     width: '960px';
+     font-size: '18px';
 }
 .container {
     text-align: center;
-    background-color: aqua;
+    text-decoration-color: aliceblue;
     height: 125px;
     width: 80%;
 }
+#hyperlink {
+    
+}
 
-#h2 {
-    background-color: aqua;
-    height: 250px;
-    width: 80%;
+#left {
+    Background-color: blue; 
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+
+#right {
+    background-color: blue;
+    height: 100%;
+    width: 10%; 
+    float: right;
+
 }
